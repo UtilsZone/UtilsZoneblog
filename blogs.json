@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Getting Started with JavaScript",
-    "url": "/blog/getting-started-with-javascript",
+    "url": "../blog/typing-test-and-practice-tool",
     "description": "Beginner-friendly guide to JavaScript basics including variables, functions, and DOM manipulation.",
     "tags": ["javascript", "beginner", "web development"],
     "categories": ["Programming", "Frontend"],
@@ -18,7 +18,7 @@
   {
     "id": 2,
     "title": "Understanding ROI in Movie Budgets",
-    "url": "/blog/understanding-roi-in-movie-budgets",
+    "url": "../blog/understanding-roi-in-movie-budgets",
     "description": "Analysis of how different Hollywood movie budgets impact box office revenue and ROI.",
     "tags": ["data analysis", "movies", "ROI"],
     "categories": ["Data Science", "Entertainment"],
@@ -30,7 +30,7 @@
   {
     "id": 3,
     "title": "Building a Sidebar in React",
-    "url": "/blog/building-a-sidebar-in-react",
+    "url": "../blog/building-a-sidebar-in-react",
     "description": "Step-by-step guide to creating a responsive sidebar in React that stays open on PC and toggles on mobile.",
     "tags": ["react", "frontend", "ui design"],
     "categories": ["Programming", "UI/UX"],

@@ -1,1 +1,42 @@
-
+[
+  {
+    "id": 1,
+    "title": "Getting Started with JavaScript",
+    "url": "/blog/getting-started-with-javascript",
+    "tags": ["javascript", "beginner", "web development"],
+    "categories": ["Programming", "Frontend"],
+    "images": [
+      { "id": "cover", "src": "/images/posts/js-intro-cover.jpg" },
+      { "id": "example1", "src": "/images/posts/js-example1.png" },
+      { "id": "example2", "src": "/images/posts/js-example2.png" }
+    ],
+    "videos": [
+      { "id": "intro", "src": "https://www.youtube.com/embed/abcd1234" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Understanding ROI in Movie Budgets",
+    "url": "/blog/understanding-roi-in-movie-budgets",
+    "tags": ["data analysis", "movies", "ROI"],
+    "categories": ["Data Science", "Entertainment"],
+    "images": [
+      { "id": "cover", "src": "/images/posts/roi-cover.jpg" }
+    ],
+    "videos": []
+  },
+  {
+    "id": 3,
+    "title": "Building a Sidebar in React",
+    "url": "/blog/building-a-sidebar-in-react",
+    "tags": ["react", "frontend", "ui design"],
+    "categories": ["Programming", "UI/UX"],
+    "images": [
+      { "id": "cover", "src": "/images/posts/react-sidebar-cover.png" },
+      { "id": "preview1", "src": "/images/posts/sidebar-preview1.png" }
+    ],
+    "videos": [
+      { "id": "demo", "src": "https://player.vimeo.com/video/xyz5678" }
+    ]
+  }
+]

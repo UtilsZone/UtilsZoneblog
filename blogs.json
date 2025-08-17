@@ -7,9 +7,7 @@
     "tags": ["computer maintenance", "pc performance", "speed up computer", "pc care", "computer tips", "tech guide", "optimize pc", "long lifespan", "troubleshooting", "keep pc like new"],
     "categories": ["Technology", "Computer Maintenance", "PC Optimization"],
     "images": [
-      { "id": "cover", "src": "/images/posts/js-intro-cover.jpg" },
-      { "id": "example1", "src": "/images/posts/js-example1.png" },
-      { "id": "example2", "src": "/images/posts/js-example2.png" }
+      { "id": "cover", "src": "https://raw.githubusercontent.com/Elias-03/webtpblog/main/images/1.jpg" }
     ],
     "videos": [
       { "id": "intro", "src": "https://www.youtube.com/embed/abcd1234" }

@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "Getting Started with JavaScript",
-    "url": "../blog/typing-test-and-practice-tool",
-    "description": "Beginner-friendly guide to JavaScript basics including variables, functions, and DOM manipulation.",
-    "tags": ["javascript", "beginner", "web development"],
-    "categories": ["Programming", "Frontend"],
+    "title": "how-to-keep-your-computer-running-like-new-for-years",
+    "url": "../blog/how-to-keep-your-computer-running-like-new-for-years",
+    "description": "Essential maintenance tips to extend your computer’s lifespan and keep performance at its best.",
+    "tags": ["computer maintenance", "pc performance", "speed up computer", "pc care", "computer tips", "tech guide", "optimize pc", "long lifespan", "troubleshooting", "keep pc like new"]
+    "categories": ["Technology", "Computer Maintenance", "PC Optimization"]
     "images": [
       { "id": "cover", "src": "/images/posts/js-intro-cover.jpg" },
       { "id": "example1", "src": "/images/posts/js-example1.png" },

@@ -12,30 +12,6 @@
     "videos": [
       { "id": "intro", "src": "https://www.youtube.com/embed/abcd1234" }
     ]
-  },
- {
-  "id": 2,
-  "title": "TBA",
-  "url": "TBA",
-  "description": "TBA",
-  "tags": ["TBA"],
-  "categories": ["TBA"],
-  "images": [
-    { "id": "cover", "src": "TBA" }
-  ],
-  "videos": ["TBA"]
-},
-{
-  "id": 3,
-  "title": "TBA",
-  "url": "TBA",
-  "description": "TBA",
-  "tags": ["TBA"],
-  "categories": ["TBA"],
-  "images": [
-    { "id": "cover", "src": "TBA" }
-  ],
-  "videos": ["TBA"]
-}
+  }
 
 ]

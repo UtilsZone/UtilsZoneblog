@@ -13,31 +13,29 @@
       { "id": "intro", "src": "https://www.youtube.com/embed/abcd1234" }
     ]
   },
-  {
-    "id": 2,
-    "title": "Understanding ROI in Movie Budgets",
-    "url": "../blog/understanding-roi-in-movie-budgets",
-    "description": "Analysis of how different Hollywood movie budgets impact box office revenue and ROI.",
-    "tags": ["data analysis", "movies", "ROI"],
-    "categories": ["Data Science", "Entertainment"],
-    "images": [
-      { "id": "cover", "src": "/images/posts/roi-cover.jpg" }
-    ],
-    "videos": []
-  },
-  {
-    "id": 3,
-    "title": "Building a Sidebar in React",
-    "url": "../blog/building-a-sidebar-in-react",
-    "description": "Step-by-step guide to creating a responsive sidebar in React that stays open on PC and toggles on mobile.",
-    "tags": ["react", "frontend", "ui design"],
-    "categories": ["Programming", "UI/UX"],
-    "images": [
-      { "id": "cover", "src": "/images/posts/react-sidebar-cover.png" },
-      { "id": "preview1", "src": "/images/posts/sidebar-preview1.png" }
-    ],
-    "videos": [
-      { "id": "demo", "src": "https://player.vimeo.com/video/xyz5678" }
-    ]
-  }
+ {
+  "id": 2,
+  "title": "TBA",
+  "url": "TBA",
+  "description": "TBA",
+  "tags": ["TBA"],
+  "categories": ["TBA"],
+  "images": [
+    { "id": "cover", "src": "TBA" }
+  ],
+  "videos": ["TBA"]
+},
+{
+  "id": 3,
+  "title": "TBA",
+  "url": "TBA",
+  "description": "TBA",
+  "tags": ["TBA"],
+  "categories": ["TBA"],
+  "images": [
+    { "id": "cover", "src": "TBA" }
+  ],
+  "videos": ["TBA"]
+}
+
 ]
